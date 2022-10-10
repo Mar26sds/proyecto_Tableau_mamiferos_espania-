@@ -4,7 +4,7 @@
 En este caso los datos han sido sacados de la base de datos de la Red List de 2017 (la última actualización) de la UICN.
 Los datos en bruto han sido limpiados en python en proyectos anteriores, subidos a SQL, y se han seleccionado aquellos mamíderos incluídos en alguna categoría de amenaza de la Red List. 
 
-Una vez seleccionadas las tablas necesarias se han llevado a Tableau y se ha realizado la historia presente en la carpeta "data" de este repositorio, el nombre del archivo es "Proyecto mamíferos MarSánchez.twb"
+Una vez seleccionadas las tablas necesarias se han llevado a Tableau y se ha realizado la historia presente en la carpeta "data" de este repositorio, el nombre del archivo es "Proyecto mamíferos MarSánchez.twb". En el caso de no poder abrir el archivo de Tableau, se han añadido dos imágenes (no interactivas) de las historias de Tableau.
 
 Datos de contacto:
 
